@@ -13,3 +13,29 @@ Screenshots
 <img width="1845" height="1046" alt="Screenshot 2025-07-14 175759" src="https://github.com/user-attachments/assets/e7204d2f-528f-4f5c-b9a0-37ab4e4bc911" />
 <img width="1866" height="1058" alt="Screenshot 2025-07-14 182849" src="https://github.com/user-attachments/assets/c212c331-f5a7-45af-8ca4-db9074bb32d7" />
 <img width="1884" height="1079" alt="Screenshot 2025-07-14 180836" src="https://github.com/user-attachments/assets/6071a1bb-9c47-46ee-8372-e63cce4234f0" />
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/hecker8055/AI-resume-and-Cover-Letter-builder.git
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run dev
+```
