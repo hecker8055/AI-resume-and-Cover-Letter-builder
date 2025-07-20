@@ -1,10 +1,10 @@
 import { GoogleGenerativeAI } from "@google/generative-ai";
 
-const genAI = new GoogleGenerativeAI('AIzaSyDiepoGmqUZxSYW21OiaQ53W23h5Sjfgfc');
+const genAI = new GoogleGenerativeAI('AIzaSyBDbPNlQw25_KPdDby9MDuSiktV1KRrWT0');
 
 export const getGeminiResponse = async (prompt) => {
   try {
-    const model = genAI.getGenerativeModel({ model: "gemini-pro" });
+    const model = genAI.getGenerativeModel({ model: "gemini-2.5-pro" });
     const result = await model.generateContent(prompt);
     const response = await result.response;
     return response.text();
