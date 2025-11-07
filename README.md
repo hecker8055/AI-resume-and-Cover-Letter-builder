@@ -1,12 +1,25 @@
-<<<<<<< HEAD
-# React + Vite
+🧠 AI Resume and Cover Letter Builder
+A sleek, AI-powered web application that helps users generate professional resumes and cover letters effortlessly. Built with React, Vite, and Tailwind CSS, this tool leverages modern frontend technologies to deliver a fast and intuitive user experience.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Features
+✨ AI-Powered Generation: Automatically create tailored resumes and cover letters based on user input.
+🖥️ Modern Tech Stack: Built with React + Vite for blazing-fast performance and developer-friendly setup.
+🎨 Responsive Design: Styled with Tailwind CSS for a clean, mobile-friendly interface.
+🔍 Live Preview: Instantly see your resume and cover letter as you build them.
+Installation
+Install my-project with npm
 
-Currently, two official plugins are available:
+Clone the repository
+git clone https://github.com/hecker8055/AI-resume-and-Cover-Letter-builder.git cd AI-resume-and-Cover-Letter-builder
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-=======
-# AI-resume-and-Cover-Letter-builder
-This is a tool that helps users generate resumes and cover letters using AI.
+Install dependencies
+npm install
+
+Start the development server
+npm run dev
+
+Contributing
+Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
+
+License
+This project is open-source. Feel free to fork and adapt it to your needs.
